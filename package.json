@@ -14,10 +14,11 @@
     "@syncfusion/ej2-data": "^*",
     "@syncfusion/ej2-vue-grids": "^32.2.3",
     "cldr-data": "^36.0.5",
-    "vue": "^3.3.4"
+    "vue": "^3.5.28"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue": "^4.6.2",
+    "@vue/compiler-sfc": "^3.5.28",
     "rollup-plugin-visualizer": "^6.0.5",
     "vite": "^4.4.5"
   }
