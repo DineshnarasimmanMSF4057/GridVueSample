@@ -1,0 +1,24 @@
+{
+  "name": "vue3-js-grid",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite --port 4031",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-base": "^32.2.3",
+    "@syncfusion/ej2-cldr-data": "^32.1.19",
+    "@syncfusion/ej2-data": "^*",
+    "@syncfusion/ej2-vue-grids": "^32.2.3",
+    "cldr-data": "^36.0.5",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "rollup-plugin-visualizer": "^6.0.5",
+    "vite": "^4.4.5"
+  }
+}
